@@ -14,6 +14,6 @@ Catalyst Sustainability Goals
 #
 
 ### IMPORTANT LINKS
-* <external links>
+* https://docs.google.com/document/d/1EYx6FiSxwSh6FU3H3SaPSqX3QGRF9SV1VlP0aBal8-A/edit
 * <internal links (Discussion section, specific discussion or items?)>
 * ...
