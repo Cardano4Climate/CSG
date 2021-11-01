@@ -10,6 +10,7 @@ Catalyst Sustainability Goals
 * <Coop charter / policy (agreed upon values)> 
 * Code of Conduct
 * How to contribute
+* hahaha
 
 #
 
